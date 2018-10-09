@@ -4,6 +4,7 @@ Welcome, https://openpnu.github.io
 
 ## Contributors
 
+ * Gihwan Kim <gihwanxyz@gmail.com>
 
 ## License
 
