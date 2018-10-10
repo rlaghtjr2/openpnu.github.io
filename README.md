@@ -4,9 +4,11 @@ Welcome, https://openpnu.github.io
 
 ## Contributors
 
- * Gihwan   Kim   <gihwanxyz@gmail.com>
  * Hyeonwoo Park  <qkrgusdn5546@gmail.com>
+ * Jaeyeong Kim <jaeyeong951@gmail.com>
  * JooYeon Han    <taxol1203@gmail.com>
+ * Gihwan Kim <gihwanxyz@gmail.com>
+
 ## License
 
 ```
