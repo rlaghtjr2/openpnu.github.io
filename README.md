@@ -8,6 +8,7 @@ Welcome, https://openpnu.github.io
  * Jaeyeong Kim <jaeyeong951@gmail.com>
  * JooYeon Han    <taxol1203@gmail.com>
  * Gihwan Kim <gihwanxyz@gmail.com>
+ * HanGyu Shin <kokilwon11@gamil.com>
 
 ## License
 
